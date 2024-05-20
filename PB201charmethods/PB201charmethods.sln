@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PB201CharMethods", "PB201CharMethods\PB201CharMethods.csproj", "{723D996F-2B9F-45F3-A417-10BA2C33F800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{723D996F-2B9F-45F3-A417-10BA2C33F800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723D996F-2B9F-45F3-A417-10BA2C33F800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723D996F-2B9F-45F3-A417-10BA2C33F800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723D996F-2B9F-45F3-A417-10BA2C33F800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF80B92-7D62-4267-998D-FC682690838B}
+	EndGlobalSection
+EndGlobal

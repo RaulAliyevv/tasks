@@ -1,0 +1,14 @@
+C:\Users\Raul\source\repos\PB201charmethods\PB201charmethods\obj\Debug\net8.0\PB201charmethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\source\repos\PB201charmethods\PB201charmethods\obj\Debug\net8.0\PB201charmethods.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\PB201charmethods\PB201charmethods\obj\Debug\net8.0\PB201charmethods.AssemblyInfo.cs
+C:\Users\Raul\source\repos\PB201charmethods\PB201charmethods\obj\Debug\net8.0\PB201charmethods.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\PB201CharMethods\PB201CharMethods\bin\Debug\net8.0\PB201CharMethods.exe
+C:\Users\Raul\source\repos\PB201CharMethods\PB201CharMethods\bin\Debug\net8.0\PB201CharMethods.deps.json
+C:\Users\Raul\source\repos\PB201CharMethods\PB201CharMethods\bin\Debug\net8.0\PB201CharMethods.runtimeconfig.json
+C:\Users\Raul\source\repos\PB201CharMethods\PB201CharMethods\bin\Debug\net8.0\PB201CharMethods.dll
+C:\Users\Raul\source\repos\PB201CharMethods\PB201CharMethods\bin\Debug\net8.0\PB201CharMethods.pdb
+C:\Users\Raul\source\repos\PB201CharMethods\PB201CharMethods\obj\Debug\net8.0\PB201CharMethods.dll
+C:\Users\Raul\source\repos\PB201CharMethods\PB201CharMethods\obj\Debug\net8.0\refint\PB201CharMethods.dll
+C:\Users\Raul\source\repos\PB201CharMethods\PB201CharMethods\obj\Debug\net8.0\PB201CharMethods.pdb
+C:\Users\Raul\source\repos\PB201CharMethods\PB201CharMethods\obj\Debug\net8.0\PB201CharMethods.genruntimeconfig.cache
+C:\Users\Raul\source\repos\PB201CharMethods\PB201CharMethods\obj\Debug\net8.0\ref\PB201CharMethods.dll
