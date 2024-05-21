@@ -1,0 +1,14 @@
+C:\Users\Raul\source\repos\PB201Class\PB201Class\bin\Debug\net8.0\PB201Class.exe
+C:\Users\Raul\source\repos\PB201Class\PB201Class\bin\Debug\net8.0\PB201Class.deps.json
+C:\Users\Raul\source\repos\PB201Class\PB201Class\bin\Debug\net8.0\PB201Class.runtimeconfig.json
+C:\Users\Raul\source\repos\PB201Class\PB201Class\bin\Debug\net8.0\PB201Class.dll
+C:\Users\Raul\source\repos\PB201Class\PB201Class\bin\Debug\net8.0\PB201Class.pdb
+C:\Users\Raul\source\repos\PB201Class\PB201Class\obj\Debug\net8.0\PB201Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\source\repos\PB201Class\PB201Class\obj\Debug\net8.0\PB201Class.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\PB201Class\PB201Class\obj\Debug\net8.0\PB201Class.AssemblyInfo.cs
+C:\Users\Raul\source\repos\PB201Class\PB201Class\obj\Debug\net8.0\PB201Class.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\PB201Class\PB201Class\obj\Debug\net8.0\PB201Class.dll
+C:\Users\Raul\source\repos\PB201Class\PB201Class\obj\Debug\net8.0\refint\PB201Class.dll
+C:\Users\Raul\source\repos\PB201Class\PB201Class\obj\Debug\net8.0\PB201Class.pdb
+C:\Users\Raul\source\repos\PB201Class\PB201Class\obj\Debug\net8.0\PB201Class.genruntimeconfig.cache
+C:\Users\Raul\source\repos\PB201Class\PB201Class\obj\Debug\net8.0\ref\PB201Class.dll
