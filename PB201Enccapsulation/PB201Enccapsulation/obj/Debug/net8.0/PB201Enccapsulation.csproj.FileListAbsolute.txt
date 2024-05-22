@@ -1,0 +1,14 @@
+C:\Users\Raul\source\repos\PB201Enccapsulation\PB201Enccapsulation\obj\Debug\net8.0\PB201Enccapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\source\repos\PB201Enccapsulation\PB201Enccapsulation\obj\Debug\net8.0\PB201Enccapsulation.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\PB201Enccapsulation\PB201Enccapsulation\obj\Debug\net8.0\PB201Enccapsulation.AssemblyInfo.cs
+C:\Users\Raul\source\repos\PB201Enccapsulation\PB201Enccapsulation\obj\Debug\net8.0\PB201Enccapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\PB201Enccapsulation\PB201Enccapsulation\bin\Debug\net8.0\PB201Enccapsulation.exe
+C:\Users\Raul\source\repos\PB201Enccapsulation\PB201Enccapsulation\bin\Debug\net8.0\PB201Enccapsulation.deps.json
+C:\Users\Raul\source\repos\PB201Enccapsulation\PB201Enccapsulation\bin\Debug\net8.0\PB201Enccapsulation.runtimeconfig.json
+C:\Users\Raul\source\repos\PB201Enccapsulation\PB201Enccapsulation\bin\Debug\net8.0\PB201Enccapsulation.dll
+C:\Users\Raul\source\repos\PB201Enccapsulation\PB201Enccapsulation\bin\Debug\net8.0\PB201Enccapsulation.pdb
+C:\Users\Raul\source\repos\PB201Enccapsulation\PB201Enccapsulation\obj\Debug\net8.0\PB201Enccapsulation.dll
+C:\Users\Raul\source\repos\PB201Enccapsulation\PB201Enccapsulation\obj\Debug\net8.0\refint\PB201Enccapsulation.dll
+C:\Users\Raul\source\repos\PB201Enccapsulation\PB201Enccapsulation\obj\Debug\net8.0\PB201Enccapsulation.pdb
+C:\Users\Raul\source\repos\PB201Enccapsulation\PB201Enccapsulation\obj\Debug\net8.0\PB201Enccapsulation.genruntimeconfig.cache
+C:\Users\Raul\source\repos\PB201Enccapsulation\PB201Enccapsulation\obj\Debug\net8.0\ref\PB201Enccapsulation.dll
