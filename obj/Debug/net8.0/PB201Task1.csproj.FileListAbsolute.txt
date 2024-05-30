@@ -1,0 +1,14 @@
+C:\Users\Muhammad\Desktop\c#\PB201Task1\PB201Task1\bin\Debug\net8.0\PB201Task1.exe
+C:\Users\Muhammad\Desktop\c#\PB201Task1\PB201Task1\bin\Debug\net8.0\PB201Task1.deps.json
+C:\Users\Muhammad\Desktop\c#\PB201Task1\PB201Task1\bin\Debug\net8.0\PB201Task1.runtimeconfig.json
+C:\Users\Muhammad\Desktop\c#\PB201Task1\PB201Task1\bin\Debug\net8.0\PB201Task1.dll
+C:\Users\Muhammad\Desktop\c#\PB201Task1\PB201Task1\bin\Debug\net8.0\PB201Task1.pdb
+C:\Users\Muhammad\Desktop\c#\PB201Task1\PB201Task1\obj\Debug\net8.0\PB201Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad\Desktop\c#\PB201Task1\PB201Task1\obj\Debug\net8.0\PB201Task1.AssemblyInfoInputs.cache
+C:\Users\Muhammad\Desktop\c#\PB201Task1\PB201Task1\obj\Debug\net8.0\PB201Task1.AssemblyInfo.cs
+C:\Users\Muhammad\Desktop\c#\PB201Task1\PB201Task1\obj\Debug\net8.0\PB201Task1.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\Desktop\c#\PB201Task1\PB201Task1\obj\Debug\net8.0\PB201Task1.dll
+C:\Users\Muhammad\Desktop\c#\PB201Task1\PB201Task1\obj\Debug\net8.0\refint\PB201Task1.dll
+C:\Users\Muhammad\Desktop\c#\PB201Task1\PB201Task1\obj\Debug\net8.0\PB201Task1.pdb
+C:\Users\Muhammad\Desktop\c#\PB201Task1\PB201Task1\obj\Debug\net8.0\PB201Task1.genruntimeconfig.cache
+C:\Users\Muhammad\Desktop\c#\PB201Task1\PB201Task1\obj\Debug\net8.0\ref\PB201Task1.dll
