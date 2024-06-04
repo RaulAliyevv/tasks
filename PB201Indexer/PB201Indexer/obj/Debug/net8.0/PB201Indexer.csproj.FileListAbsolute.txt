@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\PB201Indexer\PB201Indexer\bin\Debug\net8.0\PB201Indexer.exe
+C:\Users\99455\source\repos\PB201Indexer\PB201Indexer\bin\Debug\net8.0\PB201Indexer.deps.json
+C:\Users\99455\source\repos\PB201Indexer\PB201Indexer\bin\Debug\net8.0\PB201Indexer.runtimeconfig.json
+C:\Users\99455\source\repos\PB201Indexer\PB201Indexer\bin\Debug\net8.0\PB201Indexer.dll
+C:\Users\99455\source\repos\PB201Indexer\PB201Indexer\bin\Debug\net8.0\PB201Indexer.pdb
+C:\Users\99455\source\repos\PB201Indexer\PB201Indexer\obj\Debug\net8.0\PB201Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\PB201Indexer\PB201Indexer\obj\Debug\net8.0\PB201Indexer.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\PB201Indexer\PB201Indexer\obj\Debug\net8.0\PB201Indexer.AssemblyInfo.cs
+C:\Users\99455\source\repos\PB201Indexer\PB201Indexer\obj\Debug\net8.0\PB201Indexer.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\PB201Indexer\PB201Indexer\obj\Debug\net8.0\PB201Indexer.dll
+C:\Users\99455\source\repos\PB201Indexer\PB201Indexer\obj\Debug\net8.0\refint\PB201Indexer.dll
+C:\Users\99455\source\repos\PB201Indexer\PB201Indexer\obj\Debug\net8.0\PB201Indexer.pdb
+C:\Users\99455\source\repos\PB201Indexer\PB201Indexer\obj\Debug\net8.0\PB201Indexer.genruntimeconfig.cache
+C:\Users\99455\source\repos\PB201Indexer\PB201Indexer\obj\Debug\net8.0\ref\PB201Indexer.dll
