@@ -1,0 +1,4 @@
+C:\Users\99455\source\repos\Record,Tupple,Struct Task\Record,Tupple,Struct Task\obj\Debug\net8.0\Record,Tupple,Struct Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\Record,Tupple,Struct Task\Record,Tupple,Struct Task\obj\Debug\net8.0\Record,Tupple,Struct Task.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\Record,Tupple,Struct Task\Record,Tupple,Struct Task\obj\Debug\net8.0\Record,Tupple,Struct Task.AssemblyInfo.cs
+C:\Users\99455\source\repos\Record,Tupple,Struct Task\Record,Tupple,Struct Task\obj\Debug\net8.0\Record,Tupple,Struct Task.csproj.CoreCompileInputs.cache
