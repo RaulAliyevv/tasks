@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\ProjectPB201\ProjectPB201\obj\Debug\net8.0\ProjectPB201.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\ProjectPB201\ProjectPB201\obj\Debug\net8.0\ProjectPB201.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\ProjectPB201\ProjectPB201\obj\Debug\net8.0\ProjectPB201.AssemblyInfo.cs
+C:\Users\99455\source\repos\ProjectPB201\ProjectPB201\obj\Debug\net8.0\ProjectPB201.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\ProjectPB201\ProjectPB201\bin\Debug\net8.0\ProjectPB201.exe
+C:\Users\99455\source\repos\ProjectPB201\ProjectPB201\bin\Debug\net8.0\ProjectPB201.deps.json
+C:\Users\99455\source\repos\ProjectPB201\ProjectPB201\bin\Debug\net8.0\ProjectPB201.runtimeconfig.json
+C:\Users\99455\source\repos\ProjectPB201\ProjectPB201\bin\Debug\net8.0\ProjectPB201.dll
+C:\Users\99455\source\repos\ProjectPB201\ProjectPB201\bin\Debug\net8.0\ProjectPB201.pdb
+C:\Users\99455\source\repos\ProjectPB201\ProjectPB201\obj\Debug\net8.0\ProjectPB201.dll
+C:\Users\99455\source\repos\ProjectPB201\ProjectPB201\obj\Debug\net8.0\refint\ProjectPB201.dll
+C:\Users\99455\source\repos\ProjectPB201\ProjectPB201\obj\Debug\net8.0\ProjectPB201.pdb
+C:\Users\99455\source\repos\ProjectPB201\ProjectPB201\obj\Debug\net8.0\ProjectPB201.genruntimeconfig.cache
+C:\Users\99455\source\repos\ProjectPB201\ProjectPB201\obj\Debug\net8.0\ref\ProjectPB201.dll
