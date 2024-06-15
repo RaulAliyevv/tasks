@@ -1,0 +1,4 @@
+C:\Users\99455\source\repos\File IO PB201\File IO PB201\obj\Debug\net8.0\File IO PB201.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\File IO PB201\File IO PB201\obj\Debug\net8.0\File IO PB201.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\File IO PB201\File IO PB201\obj\Debug\net8.0\File IO PB201.AssemblyInfo.cs
+C:\Users\99455\source\repos\File IO PB201\File IO PB201\obj\Debug\net8.0\File IO PB201.csproj.CoreCompileInputs.cache
