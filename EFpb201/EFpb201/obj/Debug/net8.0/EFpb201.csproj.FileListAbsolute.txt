@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\EFpb201\EFpb201\bin\Debug\net8.0\EFpb201.exe
+C:\Users\99455\source\repos\EFpb201\EFpb201\bin\Debug\net8.0\EFpb201.deps.json
+C:\Users\99455\source\repos\EFpb201\EFpb201\bin\Debug\net8.0\EFpb201.runtimeconfig.json
+C:\Users\99455\source\repos\EFpb201\EFpb201\bin\Debug\net8.0\EFpb201.dll
+C:\Users\99455\source\repos\EFpb201\EFpb201\bin\Debug\net8.0\EFpb201.pdb
+C:\Users\99455\source\repos\EFpb201\EFpb201\obj\Debug\net8.0\EFpb201.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\EFpb201\EFpb201\obj\Debug\net8.0\EFpb201.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\EFpb201\EFpb201\obj\Debug\net8.0\EFpb201.AssemblyInfo.cs
+C:\Users\99455\source\repos\EFpb201\EFpb201\obj\Debug\net8.0\EFpb201.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\EFpb201\EFpb201\obj\Debug\net8.0\EFpb201.dll
+C:\Users\99455\source\repos\EFpb201\EFpb201\obj\Debug\net8.0\refint\EFpb201.dll
+C:\Users\99455\source\repos\EFpb201\EFpb201\obj\Debug\net8.0\EFpb201.pdb
+C:\Users\99455\source\repos\EFpb201\EFpb201\obj\Debug\net8.0\EFpb201.genruntimeconfig.cache
+C:\Users\99455\source\repos\EFpb201\EFpb201\obj\Debug\net8.0\ref\EFpb201.dll
