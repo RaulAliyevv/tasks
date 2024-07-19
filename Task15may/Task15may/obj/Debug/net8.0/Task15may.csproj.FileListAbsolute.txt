@@ -1,0 +1,14 @@
+C:\Users\raulza\source\repos\Task15may\Task15may\bin\Debug\net8.0\Task15may.exe
+C:\Users\raulza\source\repos\Task15may\Task15may\bin\Debug\net8.0\Task15may.deps.json
+C:\Users\raulza\source\repos\Task15may\Task15may\bin\Debug\net8.0\Task15may.runtimeconfig.json
+C:\Users\raulza\source\repos\Task15may\Task15may\bin\Debug\net8.0\Task15may.dll
+C:\Users\raulza\source\repos\Task15may\Task15may\bin\Debug\net8.0\Task15may.pdb
+C:\Users\raulza\source\repos\Task15may\Task15may\obj\Debug\net8.0\Task15may.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulza\source\repos\Task15may\Task15may\obj\Debug\net8.0\Task15may.AssemblyInfoInputs.cache
+C:\Users\raulza\source\repos\Task15may\Task15may\obj\Debug\net8.0\Task15may.AssemblyInfo.cs
+C:\Users\raulza\source\repos\Task15may\Task15may\obj\Debug\net8.0\Task15may.csproj.CoreCompileInputs.cache
+C:\Users\raulza\source\repos\Task15may\Task15may\obj\Debug\net8.0\Task15may.dll
+C:\Users\raulza\source\repos\Task15may\Task15may\obj\Debug\net8.0\refint\Task15may.dll
+C:\Users\raulza\source\repos\Task15may\Task15may\obj\Debug\net8.0\Task15may.pdb
+C:\Users\raulza\source\repos\Task15may\Task15may\obj\Debug\net8.0\Task15may.genruntimeconfig.cache
+C:\Users\raulza\source\repos\Task15may\Task15may\obj\Debug\net8.0\ref\Task15may.dll
