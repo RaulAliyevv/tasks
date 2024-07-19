@@ -1,0 +1,14 @@
+C:\Users\raulza\source\repos\Task10may\Task10may\bin\Debug\net8.0\Task10may.exe
+C:\Users\raulza\source\repos\Task10may\Task10may\bin\Debug\net8.0\Task10may.deps.json
+C:\Users\raulza\source\repos\Task10may\Task10may\bin\Debug\net8.0\Task10may.runtimeconfig.json
+C:\Users\raulza\source\repos\Task10may\Task10may\bin\Debug\net8.0\Task10may.dll
+C:\Users\raulza\source\repos\Task10may\Task10may\bin\Debug\net8.0\Task10may.pdb
+C:\Users\raulza\source\repos\Task10may\Task10may\obj\Debug\net8.0\Task10may.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulza\source\repos\Task10may\Task10may\obj\Debug\net8.0\Task10may.AssemblyInfoInputs.cache
+C:\Users\raulza\source\repos\Task10may\Task10may\obj\Debug\net8.0\Task10may.AssemblyInfo.cs
+C:\Users\raulza\source\repos\Task10may\Task10may\obj\Debug\net8.0\Task10may.csproj.CoreCompileInputs.cache
+C:\Users\raulza\source\repos\Task10may\Task10may\obj\Debug\net8.0\Task10may.dll
+C:\Users\raulza\source\repos\Task10may\Task10may\obj\Debug\net8.0\refint\Task10may.dll
+C:\Users\raulza\source\repos\Task10may\Task10may\obj\Debug\net8.0\Task10may.pdb
+C:\Users\raulza\source\repos\Task10may\Task10may\obj\Debug\net8.0\Task10may.genruntimeconfig.cache
+C:\Users\raulza\source\repos\Task10may\Task10may\obj\Debug\net8.0\ref\Task10may.dll
